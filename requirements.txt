@@ -1,0 +1,6 @@
+django
+PyPDF2
+python-docx
+spacy
+whitenoise
+gunicorn
